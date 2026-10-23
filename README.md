@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://vaibhavbadhe.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-FF5A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"/></a>
   <a href="https://linkedin.com/in/vaibhavbadhe-flutter"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://pub.dev/packages/toast_service"><img src="https://img.shields.io/badge/pub.dev-toast__service-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a>
   <a href="mailto:vaibhavbadhe2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -17,6 +18,7 @@
 
 ### 👨‍💻 About Me
 
+- 🌐 **Interactive Portfolio**: [**vaibhavbadhe.vercel.app**](https://vaibhavbadhe.vercel.app/) *(Featuring 11+ production apps, architecture case studies & resume)*
 - 🏢 **Current Role**: **Senior Flutter Developer** at **INFYNOD TECH PRIVATE LIMITED**, Pune.
 - 📱 **Track Record**: Shipped **11+ commercial production applications** across Android & iOS.
 - 🏆 **Recognition**: Awarded **Best Employee Award (2025)** for delivery speed, code ownership, and zero-regression architecture.
@@ -71,6 +73,7 @@
 
 ### 📬 Connect With Me
 
+- 🌐 **Live Portfolio**: [vaibhavbadhe.vercel.app](https://vaibhavbadhe.vercel.app/)
 - 💼 **LinkedIn**: [linkedin.com/in/vaibhavbadhe-flutter](https://www.linkedin.com/in/vaibhavbadhe-flutter/)
 - 📦 **pub.dev**: [pub.dev/packages/toast_service](https://pub.dev/packages/toast_service)
 - 📧 **Email**: [vaibhavbadhe2004@gmail.com](mailto:vaibhavbadhe2004@gmail.com)
